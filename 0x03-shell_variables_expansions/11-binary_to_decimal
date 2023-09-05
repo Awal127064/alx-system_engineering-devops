@@ -1,2 +1,2 @@
 #!/bin/bash
-export BINARY="1101"
+echo "Binary ($BINARY) in Decimal is: $decimaýüþüüüecho "Binary ($BINARY) in Decimal is: $decimall
