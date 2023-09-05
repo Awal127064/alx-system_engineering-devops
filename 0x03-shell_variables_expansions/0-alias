@@ -1,2 +1,2 @@
 #!/bin/bash
-create_ls_alias.sh
+ls_alias.file1 file2
