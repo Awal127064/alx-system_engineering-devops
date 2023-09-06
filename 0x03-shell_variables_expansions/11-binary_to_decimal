@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Binary ($BINARY) in Decimal is: $decimaýüþüüüecho "Binary ($BINARY) in Decimal is: $decimall
+decimal=$(echo "ibase=2; $BINARY" | bc)
